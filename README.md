@@ -65,7 +65,7 @@
   <img src=picture/8.png width=50% />
 
 
-5. 将风扇的四根导线穿过上盖的小开孔，与xh2.54排线连接，注意连接线序（红色电源，黑色接地，蓝色接pwm信号，黄色可不接），连接后将xh2.54排线插上控制板
+5. 将风扇的四根导线穿过上盖的小开孔，与XH2.54排线连接，注意连接线序（红色电源，黑色接地，蓝色接pwm信号，黄色可不接），连接后将XH2.54排线插上控制板
   <img src=picture/9.png width=50% />
   <img src=picture/10.png width=50% />
   <img src=picture/11.png width=50% />
