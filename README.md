@@ -40,6 +40,10 @@
 
 <img src=picture/xh2.54.png width=50% />
 
+- 防滑脚贴一块
+
+<img src=picture/dianzi.png width=50% />
+
 - 电烙铁支架1个（我这里用的是正点原子的迷你电烙铁支架）
 
 <img src=picture/dianlaotie.png width=50% />
