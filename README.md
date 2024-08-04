@@ -9,11 +9,11 @@
 
 ## 需要准备的材料
 
-- 焊接风扇调速PCB板（在hardware文件夹中）
+- 焊接风扇调速PCB板（在hardware文件夹中）和3D打印件（在model文件夹中）
 
-- 3D打印件（在model文件夹中）
+<img src=picture/1.jpg width=90% />
 
-- M3×45mm螺丝4颗、M3×10mm螺丝4颗、M3×8mm螺丝8颗
+- M3×45mm螺丝4颗、M3×10mm螺丝4颗、M3×6mm螺丝8颗
 
 <img src=picture/luosi.png width=50% />
 
@@ -47,5 +47,9 @@
 
 
 ## 组装方法
+1. 打印所有3D打印件，并在12个开孔处使用电烙铁压入热熔螺母
+<img src=picture/2.png width=50% />
 
+
+2. 
 
