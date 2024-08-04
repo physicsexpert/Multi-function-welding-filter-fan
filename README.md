@@ -49,7 +49,67 @@
 ## 组装方法
 1. 打印所有3D打印件，并在12个开孔处使用电烙铁压入热熔螺母
 <img src=picture/2.png width=50% />
+<img src=picture/3.png width=50% />
 
 
-2. 
+2. 将自锁开关对应的四个引脚焊接导线，注意指示灯正极和开关一侧接同一根导线，指示灯负极接一根线，开关另一侧接一根线
+<img src=picture/4.png width=50% />
+
+
+3. 将开关的穿过底座圆形开孔并锁紧固定螺母
+<img src=picture/6.png width=50% />
+
+   
+4. 将开关上的导线焊接到控制板上，指示灯正极接+12V，指示灯负极接GND,开关另一侧导线接VBUS，焊接完成后将控制板放入底座内
+  <img src=picture/7.png width=50% />
+  <img src=picture/8.png width=50% />
+
+
+5. 将风扇的四根导线穿过上盖的小开孔，与xh2.54排线连接，注意连接线序（红色电源，黑色接地，蓝色接pwm信号，黄色可不接），连接后将xh2.54排线插上控制板
+  <img src=picture/9.png width=50% />
+  <img src=picture/10.png width=50% />
+  <img src=picture/11.png width=50% />
+
+
+6. 拧上上盖上的八颗螺丝
+<img src=picture/12.png width=50% />
+<img src=picture/13.png width=50% />
+
+  
+7. 拧上风扇的四颗螺丝和螺母
+<img src=picture/14.png width=50% />
+<img src=picture/15.png width=50% />
+<img src=picture/16.png width=50% />
+
+
+8. 将电烙铁支架固定在顶盖上（使用双面胶或者胶水）
+<img src=picture/17.png width=50% />
+
+
+9. 拧上顶盖上的四个螺丝
+<img src=picture/18.png width=50% />
+
+
+10. 将过滤海绵放进过滤插销，并插入机器内
+ <img src=picture/19.png width=50% />
+ <img src=picture/20.png width=50% />
+
+
+ 
+11. 插入焊锡丝收纳器
+<img src=picture/21.png width=50% />
+
+
+12. 安装电位器旋钮和脚贴
+<img src=picture/22.png width=50% />
+<img src=picture/23.png width=50% />
+
+
+
+
+13. 安装完成
+<img src=picture/24.png width=50% />
+
+
+
 
