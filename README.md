@@ -17,6 +17,10 @@
 
 <img src=picture/luosi.png width=50% />
 
+- M3螺母4颗
+
+<img src=picture/luomu.png width=50% />
+
 - M3×5mm×4.2mm热熔螺母12颗
 
 <img src=picture/rerongluomu.png width=50% />
@@ -31,6 +35,10 @@
 - 自锁按键开关1个
 
 <img src=picture/kaiguan.png width=50% />
+
+- XH2.54连接线1条
+
+<img src=picture/xh2.54.png width=50% />
 
 - 电烙铁支架1个（我这里用的是正点原子的迷你电烙铁支架）
 
