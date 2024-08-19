@@ -4,8 +4,8 @@
 <img src=picture/zhengti.png width=90% />
 
 ## 项目链接
-### B站视频链接：
-### 立创开源平台链接：
+### B站视频链接：https://www.bilibili.com/video/BV1T142187PJ/?spm_id_from=333.999.0.0
+### 立创开源平台链接：https://oshwhub.com/expert/zi-zhi-han-jie-feng-shan
 
 ## 需要准备的材料
 
